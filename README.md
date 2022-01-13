@@ -5,7 +5,6 @@
 - Python 3
 - scikit-learn
 - xgboost
-- lightGBM
 - mlxtend
 
 ### Prediction step-by-step:
